@@ -1,10 +1,5 @@
 ## Salve, Devs 👋
 ### Bem-vindo ao meu perfil GitHub  :sunglasses: :fist: 
-
- 🌱 Atualmente interessado em desenvolver em Java com o framework Spring 
- 
- :smiley: Sou formado em tecnico em eletrônica pelo IFB, porém gosto da área de desenvolvimento de softwares
- 
  <p align="center">
 <img src="https://c.tenor.com/j8m4rwG-sFkAAAAj/batman.gif" width="450" height="250"/>
 </p> 
